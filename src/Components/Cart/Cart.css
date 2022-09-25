@@ -1,4 +1,12 @@
-h3,
-p {
-  margin: 50px;
+h3{
+    margin: 50px;
 }
+p ,h5{
+  margin: 30px;
+}
+.Order-summary {
+
+    position: sticky;
+    top: 0;
+
+  }
