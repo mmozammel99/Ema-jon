@@ -3,7 +3,7 @@
   grid-template-columns: 4fr 1fr;
 }
 .total {
-  margin: 130px 50px 50px 60px;
+  margin: 25px 50px 50px 60px;
 }
 .Order-Card-Container {
   display: grid;
